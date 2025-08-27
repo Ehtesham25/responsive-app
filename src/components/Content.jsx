@@ -10,7 +10,7 @@ const Icon= styled.img`
 padding: 0 5px 0 0;
 `
 const Main = styled.div``
-const Text= styled.p`
+const Text = styled.p`
 font-size: 15px;
 color: #000;
 margin-bottom: 3px;
