@@ -9,7 +9,7 @@ align-items: center;
 const Icon= styled.img`
 padding: 0 5px 0 0;
 `
-const Main= styled.div``
+const Main = styled.div``
 const Text= styled.p`
 font-size: 15px;
 color: #000;
