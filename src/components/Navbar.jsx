@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from "styled-components";
 import Content from "./Content"
 import { icons } from '../assets'
 
