@@ -8,7 +8,7 @@ background-image: url(${images.hero});
 background-repeat: no-repeat;
 object-fit: cover;
 height: 550px;
-`
+` 
 const Main= styled.div`
 max-width: 1024px;
 height: calc(100vh - 170px);
