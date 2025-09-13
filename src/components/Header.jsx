@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { images,icons } from "../assets";
+import { images, icons } from "../assets";
 
 const Container= styled.div`
 width: 100%;
