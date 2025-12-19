@@ -14,7 +14,6 @@ const Main = styled.div`
   max-width: 1024px;
   margin: 0 auto;
   height: 40px;
-
 `
 const SocialIcons=styled.div`
 display: flex;
